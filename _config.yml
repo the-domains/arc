@@ -1,6 +1,6 @@
 name: ARC
 favicon: null
-layout_spectrum: 0.96402
+layout_spectrum: 1
 typography_spectrum: 0.87294
 title: Aquarius Coin
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b08b3a'
     - '#7b693c'
     - '#fefbfb'
-  brandStrength: 0.5431308157276362
-  lightness: 0.6301570399664342
-  saturation: 0.7400781456381083
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.41137680341489613
 purpose: []
