@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aquarius Coin]]></title>
+        <description><![CDATA[Aquarius Coin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 22:57:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca0c0537-b064-41cc-b970-46ca070da7f1.png">]]></description>
+            <link>undefineddc76e104-9638-4d70-ac85-c935e9ecfa38/index.html</link>
+            <guid isPermaLink="false">dc76e104-9638-4d70-ac85-c935e9ecfa38</guid>
+            <pubDate>Sat, 05 Mar 2016 22:57:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
