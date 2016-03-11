@@ -1,29 +1,41 @@
-name: ARC
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.87294
-title: Aquarius Coin
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+title: Aquarius Coin
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 1
+  rhythmicContrast: 0.4113768034148961
   brandColors:
     - '#231f20'
     - '#f7ea97'
     - '#a5802d'
     - '#aa5500'
     - '#ffff00'
-  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.41137680341489613
 purpose: []
+favicon: null
+name: ARC
+typography_spectrum: 0.87294
